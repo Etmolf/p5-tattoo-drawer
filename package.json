@@ -1,0 +1,23 @@
+{
+  "name": "tattoo_drawer",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.2",
+    "vite": "^4.3.2"
+  },
+  "dependencies": {
+    "@types/howler": "^2.2.7",
+    "@types/p5": "^1.6.2",
+    "canvg": "^4.0.1",
+    "howler": "^2.2.3",
+    "p5": "^1.6.0",
+    "svg-pathdata": "^6.0.3"
+  }
+}
